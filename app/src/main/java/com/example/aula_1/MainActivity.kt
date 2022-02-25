@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
     //Fiz alguma coisa
     //Mais alguma coisa
     //Login
+    //Registo
 }
 
 //Integração Github com o android stdio
