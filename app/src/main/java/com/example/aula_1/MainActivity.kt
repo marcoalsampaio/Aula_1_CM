@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
     //Login
     //Registo
     //Pagina de password reset
+
 }
 
 //Integração Github com o android stdio
